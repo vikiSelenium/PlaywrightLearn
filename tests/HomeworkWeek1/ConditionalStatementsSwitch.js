@@ -19,7 +19,7 @@ switch(testType){
 
 }
 }
-runtests("regression");
+runtests();
 
 
 
