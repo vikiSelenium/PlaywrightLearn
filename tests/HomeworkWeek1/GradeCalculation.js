@@ -1,6 +1,8 @@
+
+let studentScore = 10
 function gradeCalculation(studentScore)
 {
-    //let studentScore
+    
 
     switch (studentScore){
     case 100:
